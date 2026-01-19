@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+test_*.py
+debug_*.py
+fix_*.py
+*_test.py
+*_fix.py
+*_debug.py
+*_analysis.py
+error_detection_*.py
+apply_*.py
+complete_*.py
+comprehensive_*.py
+create_*.py
+design_*.py
+dispatch_*.py
+engineering_*.py
+final_*.py
+phase*.py
+production_*.py
+rapid_*.py
+remove_*.py
+step_*.py
+stores_*.py
+ultimate_*.py
+
+# Documentation files (keep only README.md)
+*.md
+!README.md
+
+# JSON reports
+*.json
+
+# Alembic
+alembic/versions/*.pyc
